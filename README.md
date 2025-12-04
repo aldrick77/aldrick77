@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I am Aldrick Nana
 
+✨ Passionate about AI/ML, data, and building practical applications.
 <!--
 **aldrick77/aldrick77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔗 Links
+- **Kaggle**: [@aldrick77](https://www.kaggle.com/...)
+---
+
+Feel free to reach out if you want to collaborate on projects! 🚀
+---
+ ![Profile views](https://komarev.com/ghpvc/?username=ton-username&color=green&label=PROFILE+VIEWS)
