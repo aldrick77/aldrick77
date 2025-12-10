@@ -1,4 +1,4 @@
-## Hi there 👋, I am Aldrick Nana
+## Hi there 👋, I am Aldrick
 
 ✨ Passionate about AI/ML, data, and building practical applications.
 <!--
